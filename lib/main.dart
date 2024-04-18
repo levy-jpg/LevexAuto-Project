@@ -7,7 +7,7 @@ import 'package:levexauto/views/splash/splash_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
 
-//Git Push
+//Git Push test 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
