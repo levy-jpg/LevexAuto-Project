@@ -1,5 +1,7 @@
 # Levex Auto App
 
+# Levy Kariuki        G20893080
+
 Welcome to Levex Auto, your one-stop solution for seamless car importation and dealership integration. This Flutter-based cross-platform app revolutionizes the car buying experience with real-time tracking, taxation calculations, and a user-friendly interface.
 
 ## Technologies Used
@@ -33,5 +35,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 # Screenshots: 
 
-![alt text](<Readme 5.png>) ![alt text](<Readme 6.png>) ![alt text](<Readme 7.png>) ![alt text](<Readme 8 .png>) ![alt text](<Readme 9.png>) ![alt text](<Readme 10.png>) ![alt text](<Readme 11.png>) ![alt text](<Readme 1-2.png>) ![alt text](<Readme 2-1.png>) ![alt text](<Readme 3.png>) ![alt text](<Readme 4.png>)
-
+![
+    ![
+        ![
+            ![
+                ![
+                    ![
+                        ![
+                            ![
+                                ![
+                                    ![
+                                        ![alt text](<Readme 1-4.png>)
+                                    ](<Readme 2-3.png>)
+                                ](<Readme 3-1.png>)
+                            ](<Readme 4-1.png>)
+                        ](<Readme 5-1.png>)
+                    ](<Readme 6-1.png>)
+                ](<Readme 7-1.png>)
+            ](<Readme 8 -1.png>)
+        ](<Readme 9-1.png>)
+    ](<Readme 10-1.png>)
+](<Readme 11-1.png>)
