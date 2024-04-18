@@ -34,25 +34,37 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 # Screenshots: 
+![
+](<Readme 1-5.png>)
 
 ![
-    ![
-        ![
-            ![
-                ![
-                    ![
-                        ![
-                            ![
-                                ![
-                                    ![
-                                        ![alt text](<Readme 1-4.png>)
-                                    ](<Readme 2-3.png>)
-                                ](<Readme 3-1.png>)
-                            ](<Readme 4-1.png>)
-                        ](<Readme 5-1.png>)
-                    ](<Readme 6-1.png>)
-                ](<Readme 7-1.png>)
-            ](<Readme 8 -1.png>)
-        ](<Readme 9-1.png>)
-    ](<Readme 10-1.png>)
-](<Readme 11-1.png>)
+](<Readme 2-4.png>)
+
+![
+](<Readme 3-2.png>)
+
+![
+](<Readme 4-2.png>)
+
+![
+](<Readme 5-2.png>)
+
+![
+](<Readme 6-2.png>)
+
+![
+](<Readme 7-2.png>)
+
+![
+](<Readme 8 -2.png>)
+
+![
+](<Readme 9-2.png>)
+
+# Finshed Application
+![
+](<Readme 10-2.png>)
+
+# Firebase Database 
+![
+](<Readme 11-2.png>)
