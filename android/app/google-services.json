@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "231073210054",
+    "firebase_url": "https://levex-auto-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "levex-auto",
+    "storage_bucket": "levex-auto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231073210054:android:0d2e6b6e0b7816ca9b81c7",
+        "android_client_info": {
+          "package_name": "com.app.levexauto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA03i6fGXpyvUWLOsbHgHWcgjcP9SbjLmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
