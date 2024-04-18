@@ -14,7 +14,7 @@ class ContactUsController extends GetxController {
 
   final Uri contactUsUri = Uri(
     scheme: 'mailto',
-    path: 'intertrick99@gmail.com',
+    path: 'levthigkari@gmail.com',
     query: Uri.encodeFull('subject=LevexAuto App'),
   );
 
