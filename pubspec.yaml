@@ -11,6 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dcdg: ^4.1.0
+  
 
   # UI
   cupertino_icons: ^1.0.8

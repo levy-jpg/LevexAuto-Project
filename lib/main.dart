@@ -6,6 +6,7 @@ import 'package:levexauto/constants/app_colors.dart';
 import 'package:levexauto/views/splash/splash_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
+import 'package:dcdg/dcdg.dart';
 
 //Git final Push test
 void main() async {
